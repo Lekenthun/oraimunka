@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Teszt</title>
+        
         <?php 
         if(isset($_GET["dark"]) and !empty($_GET["dark"])) {
             if($_GET["dark"] == 1) {
