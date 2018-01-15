@@ -19,7 +19,7 @@
         ?>
     </head>
     <body>
-        <a href="./index.php?dark=1">lőn sötéCCSég</a>
+        <a href="./index.php?dark=1">lőn sötéCSSég</a>
         <a href="./index.php?dark=0">lőn világosság</a>
     </body>
 </html>
